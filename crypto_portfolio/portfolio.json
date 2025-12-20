@@ -1,0 +1,16 @@
+{
+  "coins": [
+    {
+      "symbol": "bitcoin",
+      "amount": 1.0
+    },
+    {
+      "symbol": "ethereum",
+      "amount": 4.0
+    },
+    {
+      "symbol": "solana",
+      "amount": 6.0
+    }
+  ]
+}

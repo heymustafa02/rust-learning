@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "task": "build todo cli",
+      "done": false
+    }
+  ]
+}
