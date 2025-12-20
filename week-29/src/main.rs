@@ -18,7 +18,7 @@ struct Circle {
 }
 impl Shape for Circle{
     fn area(&self) -> u32 {
-        self.radius * self.radius
+        self.radius * self.radius* 3.14 as u32
     }
 }
 
