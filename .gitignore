@@ -1,2 +1,11 @@
+# Rust
 target/
 **/target/
+
+# Binaries
+*.exe
+*.out
+
+# OS
+.DS_Store
+Thumbs.db

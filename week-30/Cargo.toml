@@ -1,0 +1,11 @@
+[package]
+name = "week-30"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+borsh = { version = "1.6.0", features = ["derive"] }
+cargo-expand = "1.0.118"
+serde = {version="1.0.228", features=["derive"]}
+serde_json = "1.0.146"
+serde_yaml = "0.9.34"
